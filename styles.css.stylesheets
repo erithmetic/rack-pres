@@ -1,0 +1,25 @@
+h1, h2, h3 { 
+  text-align: center;
+}
+img { 
+  display: block;
+  margin: 0 10%;
+}
+div.highlight, pre {
+  margin-bottom: 5%;
+}
+
+pre {
+  background-color: black;
+  color: #EEE;
+  padding: 2%;
+}
+
+div.highlight pre {
+  background-color: white !important;
+  color: black;
+}
+
+ul { 
+  margin: 0 10%;
+}
